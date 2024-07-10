@@ -2,7 +2,7 @@ const Command  = require("@oclif/core").Command;
 
 export default class Hello extends Command {
 
-    static override arg = {
+    static override args = {
 
     }
 
